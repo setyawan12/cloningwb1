@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss 
+version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+xmlns:admin="http://webns.net/mvcb/" 
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    
+<channel>
+    <title>SMK Negeri 2 Klaten</title>
+    <link>http://smkn2klaten.sch.id</link>
+    <description>Informasi mengenai SMK Negeri 2 Klaten</description>
+    <dc:language>en</dc:language>
+    <dc:creator>smkn2@smkn2klaten.sch.id</dc:creator>
+    <dc:rights>Copyright 2022</dc:rights>
+    <admin:generatorAgent rdf:resource="http://www.codeigniter.com/" />
+    
+            <item>
+        <title>Syarat dan Blanko Daftar Ulang</title>
+        <link>https://smkn2klaten.sch.id/berita/artikel/204/syarat-dan-blanko-daftar-ulang</link>
+        <guid>https://smkn2klaten.sch.id/berita/artikel/204/syarat-dan-blanko-daftar-ulang</guid>
+        <description><![CDATA[<p>informasi tentang syarat dan blangko daftar ulang bisa diunduh <a href="https://drive.google.com/drive/folders/1dUlfO6gHNJ6Z4yslhHZflP6yMZQauHkZ?usp=sharing">disini</a></p> ]]></description>
+        <pubDate>2022-07-05 09:25:47</pubDate>
+        </item>
+            <item>
+        <title>jadwal daftar ulang CPD</title>
+        <link>https://smkn2klaten.sch.id/berita/artikel/203/jadwal-daftar-ulang-cpd</link>
+        <guid>https://smkn2klaten.sch.id/berita/artikel/203/jadwal-daftar-ulang-cpd</guid>
+        <description><![CDATA[<p><img alt="" src="https://smkn2klaten.sch.id/asset/images_ckeditor/934ec44142fe44c3878118cd986e1be2.jpg" style="height:810px; width:720px" /></p> ]]></description>
+        <pubDate>2022-07-05 00:04:04</pubDate>
+        </item>
+            <item>
+        <title>Pengumuman Hasil Seleksi PPDB 2022</title>
+        <link>https://smkn2klaten.sch.id/berita/artikel/202/pengumuman-hasil-seleksi-ppdb-2022</link>
+        <guid>https://smkn2klaten.sch.id/berita/artikel/202/pengumuman-hasil-seleksi-ppdb-2022</guid>
+        <description><![CDATA[<p>selamat untuk para calon peserta diidk baru SMK N 2 Klaten yang telah dinyatakan diterima sebagai Peserta Didik Baru di SMKN 2 Klaten Tahun Ajaran 2022/2023.</p> <p>data lengkap bisa diunduh <a href="https://drive.google.com/file/d/1VnZ8q2-1dbWqhduF9znrXqTJWHCPX_fm/view?usp=sharing">disini</a></p> ]]></description>
+        <pubDate>2022-07-04 23:42:51</pubDate>
+        </item>
+            <item>
+        <title>Pilihan Program Keahlian di SMKN 2 Klaten</title>
+        <link>https://smkn2klaten.sch.id/berita/artikel/201/pilihan-program-keahlian-di-smkn-2-klaten</link>
+        <guid>https://smkn2klaten.sch.id/berita/artikel/201/pilihan-program-keahlian-di-smkn-2-klaten</guid>
+        <description><![CDATA[<p><img alt="" src="https://smkn2klaten.sch.id/asset/images_ckeditor/13c01501e523e9f25fa5dc50aadedad1.jpg" style="height:316px; width:902px" /></p> ]]></description>
+        <pubDate>2022-06-29 09:25:22</pubDate>
+        </item>
+            <item>
+        <title>Poster, Juknis dan Sosialisasi PPDB 2022</title>
+        <link>https://smkn2klaten.sch.id/berita/artikel/200/ppdb-2022</link>
+        <guid>https://smkn2klaten.sch.id/berita/artikel/200/ppdb-2022</guid>
+        <description><![CDATA[<p>diberitahukan kepada semua calon peserta didik baru SMKN 2 Klaten tahun 2022, berikut ini kami share informasi terkait dengan pelaksanan PPDB di SMKN 2 Klaten. silahkan unduh di link berikut :</p>&#8230; ]]></description>
+        <pubDate>2022-05-30 11:38:54</pubDate>
+        </item>
+    </channel>
+</rss>
